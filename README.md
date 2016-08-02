@@ -1,4 +1,5 @@
 # hello-world
 Repository to learn Github functionalities
 
-Few changes just to test 
+Just a change to check Pull and commits
+
